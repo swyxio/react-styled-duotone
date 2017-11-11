@@ -11,6 +11,15 @@ This component lib uses:
  [polished](https://github.com/styled-components/polished), 
  [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) 💅
 
+## Color themes
+
+- Primary-Color: #FBFBFB, Secondary-Color: #283B6B
+- Primary-Color: #FCC862, Secondary-Color: #2D45C6
+- Primary-Color: #71DF6F, Secondary-Color: #272D67
+- Primary-Color: #D92037, Secondary-Color: #2A3060
+- Primary-Color: #8ADFD0, Secondary-Color: #5C2998
+- Primary-Color: #FCC862, Secondary-Color: #2D45C6
+- Primary-Color: #A3D5CA, Secondary-Color: #E52839
 
 ## Further reading
 

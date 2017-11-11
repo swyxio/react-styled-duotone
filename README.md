@@ -1,6 +1,8 @@
 # React Mixblend Duotone
 _a small starter for building a component library with [styled-components](https://github.com/styled-components/styled-components) 💅_
 
+Demo is at: <https://sw-yx.github.io/react-styled-duotone/demo>
+
 ## Overview
 This component lib uses:
 

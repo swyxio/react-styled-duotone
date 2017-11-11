@@ -1,5 +1,5 @@
 {
-  "name": "component-library-starter",
+  "name": "react-styled-duotone",
   "version": "0.1.0",
   "description": "a small starter for building a component library with Styled Components",
   "main": "build/index.js",
